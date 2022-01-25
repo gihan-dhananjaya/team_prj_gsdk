@@ -20,6 +20,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
     </head>
 
+    <!--this is body section-->
     <body>
         <div class="wrapper">
             <?php include 'inc/header.php' ?>
@@ -73,4 +74,6 @@
         </div>
         <?php include 'inc/footer.php'; ?>
     </body>
+
+    <!--this is end of the body section-->
 </html>
